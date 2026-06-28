@@ -68,7 +68,7 @@ python3 fast_shutdown.py
 Simply run the script and Fast Shutdown will automatically detect your operating system and proceed accordingly:
 
 ```bash
-python3 main.py
+python3 fast_shutdown.py
 ```
 
 For **desktop systems** (Linux, macOS, Windows), it will shut down immediately.
