@@ -58,7 +58,7 @@ cd fast-shutdown
 
 3. Run the script:
 ```bash
-python3 main.py
+python3 fast_shutdown.py
 ```
 
 ---
